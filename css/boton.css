@@ -1,0 +1,25 @@
+body{
+    font-family: "calibri light";
+}
+
+.bottom a:hover{
+    background: #f30ca6
+}   
+.bottom a{
+   background: #d46eb2;
+   border-radius: 10px; 
+   text-decoration: none;
+   color: #ffffff;
+   font-size: 18px;
+   display: block;
+   padding: 20px 15px;
+   width: 80px;
+   margin: 0 auto;
+   text-align: center;
+}
+footer{
+  background:teal ;
+  text-align: center;
+  padding: 25px;
+  color: #ffffff
+}
